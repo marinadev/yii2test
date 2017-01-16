@@ -1,0 +1,12 @@
+.img-row {
+	display: block;
+	margin-bottom: 15px;
+	background-color: #d6e5ff;
+	border-radius: 10px;
+}
+
+.img-row > div {
+	display: inline;
+	width: 200px;
+	margin-left: 150px;
+}
